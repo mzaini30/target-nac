@@ -1,4 +1,4 @@
-<h2>Target NAC</h2> 
+<h2>Target NAC</h2>
 <p>Berapa <em>halaman</em> target nulis tiap hari?</p>
 <input type="tel" bind:value={halamanHarian} placeholder="Tulis di sini">
 {#if halamanHarian != ""}
